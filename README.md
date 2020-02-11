@@ -1,7 +1,7 @@
 ## 爱情树
 记录自己的爱情时刻，用`github page`展示出来，可以在微信、QQ上完美显示。扫描下面二维码可以查看网页效果。
 
-<img src="https://github.com/Daworth/LoveTreeToLittleYan/blob/master/LoveTreeToLittleYan.png" />
+<img src="https://github.com/Daworth/LoveTreeToLittleYan/blob/master/LoveTreeToLittleYan.png" width=256 height=256 />
 
 > <b>修改config.js的配置就可以做一个属于自己的爱情树了,喜欢的话fork or star一下呗~</b>
 
